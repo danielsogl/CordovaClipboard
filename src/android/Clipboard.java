@@ -1,4 +1,4 @@
-package com.danielsogl.cordova.clipboard;
+package com.verso.cordova.clipboard;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.PluginResult;
