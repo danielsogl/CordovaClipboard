@@ -36,11 +36,11 @@
 
     <!-- Android -->
     <platform name="android">
-        <source-file src="src/android/Clipboard.java" target-dir="src/com/verso/cordova/clipboard" />
+        <source-file src="src/android/Clipboard.java" target-dir="src/com/danielsogl/cordova/clipboard" />
 
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="Clipboard">
-                <param name="android-package" value="com.verso.cordova.clipboard.Clipboard" />
+                <param name="android-package" value="com.danielsogl.cordova.clipboard.Clipboard" />
             </feature>
         </config-file>
     </platform>
