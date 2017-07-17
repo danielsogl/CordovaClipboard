@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com.danielsogl.cordova.clipboard"
+    id="danielsogl-cordova-plugin-clipboard"
     version="1.0.2">
 
     <engines>
@@ -9,13 +9,9 @@
     </engines>
 
     <name>Clipboard</name>
-
     <description>Clipboard management plugin for Cordova/PhoneGap</description>
-
     <author>Verso Solutions LLC</author>
-
     <keywords>clipboard,copy,paste</keywords>
-
     <license>MIT</license>
 
     <js-module src="www/clipboard.js" name="Clipboard">
